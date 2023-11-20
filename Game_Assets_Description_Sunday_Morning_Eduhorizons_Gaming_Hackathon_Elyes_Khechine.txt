@@ -1,0 +1,14 @@
+Game Name: Sunday Morning
+
+Assets used:
+
+Outdoor Ground Textures : https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555
+Trees Conifers [BOTD] : https://assetstore.unity.com/packages/3d/vegetation/trees/conifers-botd-142076
+Grass And Flowers Pack 1 : https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-and-flowers-pack-1-17100
+Flooded Grounds : https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529
+
+Free Fatansy Music Pack: https://assetstore.unity.com/packages/audio/music/fantasy-battle-music-free-pack-111581#description
+
+Desciption:
+On a beautiful Sunday morning, Sam and Dan decided to go out on a walk to discover their new village. As they approched the mountains, they found a few unexpected surprises, which some circumstances made it difficult for them to return by the afternoon.
+Want to follow them on this exciting adventure? Don't hesitate to play our game!
